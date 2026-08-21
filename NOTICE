@@ -1,0 +1,12 @@
+이 저장소의 코드는 MIT License 를 따른다 (LICENSE 참조).
+
+데이터셋은 별도 라이선스를 따른다
+------------------------------------------------------------
+A Multi-Model Dataset for BOSCH Plasma-Etching
+  Chemnitz University of Technology (ZFM)
+  + Fraunhofer ENAS + TU Freiberg
+  DOI 10.5281/zenodo.17122442
+  CC BY 4.0
+
+`replay/*.bin` 은 위 데이터셋에서 파생된 2차 저작물이며 동일하게
+CC BY 4.0 을 따른다. 상세는 replay/README.md 참조.

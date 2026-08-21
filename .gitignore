@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+out/
+.venv/
+__pycache__/
+*.pyc
+vm_board/vm_master
+vm_board/vm_master_a53
+vm_board/vm_master_a65
+vm_board/vm_master_native
+*.o
+.pytest_cache/

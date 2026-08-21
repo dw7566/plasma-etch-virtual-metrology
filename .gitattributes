@@ -1,0 +1,8 @@
+# 줄바꿈은 저장소·체크아웃 모두 LF 로 고정한다.
+# 보드에서 도는 셸 스크립트가 CRLF 로 나가면 bad interpreter 로 죽는다.
+* text=auto eol=lf
+
+# 바이너리 — 변환 금지
+*.png   binary
+*.bin   binary
+*.pptx  binary

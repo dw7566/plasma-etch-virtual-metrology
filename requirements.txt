@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+netCDF4
+matplotlib
+openpyxl
